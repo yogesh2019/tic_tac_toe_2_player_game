@@ -1,0 +1,23 @@
+{
+  "name": "tic_tac_toe_2_player_game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yogesh2019/tic_tac_toe_2_player_game.git"
+  },
+  "keywords": [],
+  "author": "yogesh2019",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yogesh2019/tic_tac_toe_2_player_game/issues"
+  },
+  "homepage": "https://github.com/yogesh2019/tic_tac_toe_2_player_game#readme",
+  "dependencies": {
+    "node": "^19.3.0"
+  }
+}
