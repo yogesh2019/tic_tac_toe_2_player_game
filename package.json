@@ -18,6 +18,12 @@
   },
   "homepage": "https://github.com/yogesh2019/tic_tac_toe_2_player_game#readme",
   "dependencies": {
-    "node": "^19.3.0"
+    "dotenv": "^16.0.3",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "ngrok": "^4.3.3",
+    "node": "^19.3.0",
+    "socket.io": "^4.5.4",
+    "uuid": "^9.0.0"
   }
 }
